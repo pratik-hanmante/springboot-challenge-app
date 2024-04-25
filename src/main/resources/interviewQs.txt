@@ -1,0 +1,8 @@
+//method overloading means adding differnet arguemtns , when we fetching items from the user in the presentation layer , fetching item with id, id and name, id , name and the address of the item
+
+//method overriding is when the methods are passed down from the parent to child class and writing implementation of the class initialzed in the repo we can define accordingly in the impl classes,
+method signature of the overriden method like the return type and arguement
+
+/when we return the parent object in the oveerriden class we can also return the child class of it and it wont affect it even though we are returning the parent object the interface
+
+
